@@ -31,7 +31,8 @@ Cukup buka file `index.html` di browser!
 
 ## 📋 Contoh
 
-![Contoh Kalkulator PPh21 TER](https://i.imgur.com/8qVanti link gambar dengan screenshot aplikasi jika sudah ada -->
+<img width="591" alt="image" src="https://github.com/user-attachments/assets/548add78-b626-43c8-8b06-340884728c8b" />
+
 
 ## 📖 Penjelasan Status
 
